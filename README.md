@@ -1,7 +1,7 @@
 # WeatherAppBackDev
 backend development of Weather App
 
-# To run this backend project , you must copy git address from github. Then  download project using the address from ide you want .(I prefer IntelIJ idea).
+# To run this backend project , you must copy git address from github. Then  download project using the address from ide you want .(I prefer IntelIJ idea 2022.2 version).
 # After that you must add sdk in your ide. In IntelIJ idea, you  can add  sdk this path File->Project Settings -> Project ->Sdk.
 #I prefer jdk 18 but you can use 11+.
 #Then click run button for project.
