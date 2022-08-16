@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "api-properties",
+      "type": "com.example.WeatherApp.ApiProperties",
+      "sourceType": "com.example.WeatherApp.ApiProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api-properties.api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.WeatherApp.ApiProperties"
+    },
+    {
+      "name": "api-properties.country",
+      "type": "java.lang.String",
+      "sourceType": "com.example.WeatherApp.ApiProperties"
+    },
+    {
+      "name": "api-properties.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.WeatherApp.ApiProperties"
+    }
+  ],
+  "hints": []
+}
